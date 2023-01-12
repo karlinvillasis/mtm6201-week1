@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    justify-content: center;
+    background-color: antiquewhite;
+    padding-left: 500px;
+}
+
+
+img {
+   max-width: 400px;
+   height: auto;
+}
+
